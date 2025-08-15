@@ -1,0 +1,159 @@
+{
+  "conversations": [
+    {
+      "id": "intro_scene",
+      "lines": [
+        { "speaker": "Vega", "text": "Hey there young lady!" },
+        { "speaker": "Mia", "text": "Who are you? You don’t look like the average scrapper." },
+        { "speaker": "Vega", "text": "No, you’re right. I’m no scrapper. I’d like to think of myself as a humble freedom fighter." },
+        { "speaker": "Mia", "text": "So you’re a rebel then, I take it…" },
+        { "speaker": "Vega", "text": "You could say that. Don’t worry though, I mean you no harm at all. However, may I ask what brings you all the way out here?" },
+        { "speaker": "Mia", "text": "Had fight with some scrappers yesterday. The elbow servo in my arm was damaged. I’m trying to find a new one." },
+        { "speaker": "Vega", "text": "Well I might be able to help you there. I happen to have found one that might work on the body of a corpo soldier. Here, take it." },
+        { "speaker": "Mia", "text": "You don’t need it for your soldiers?" },
+        { "speaker": "Vega", "text": "I’m sure someone somewhere might need it, but I might as well help the person here and now in front of me." },
+        { "speaker": "Mia", "text": "How very virtuous of you. I really do appreciate it though. You’ve saved me a lot of trouble." },
+        { "speaker": "Vega", "text": "This might be an odd question, but do you remember your father?" },
+        { "speaker": "Mia", "text": "No. I don’t have any memories from before the war. Just waking up in excruciating pain and blood pouring out of where my original arm used to be." },
+        { "speaker": "Vega", "text": "I’m sorry to hear that. You look a bit like a man I used to know. I’ll look through some records once back at my base of operations. If you are who I think you are, then you may be the key to everything." },
+        { "speaker": "Mia", "text": "The key to… what are you talking about?" },
+        { "speaker": "Vega", "text": "You’ll see. I’ll be paying you a visit again soon. Stay alive for me, ok?" }
+      ]
+    },
+    {
+      "id": "lvl2",
+      "lines": [
+        { "speaker": "Beatrix", "text": "Who goes there?" },
+        { "speaker": "Mia", "text": "Just a humble survivor in a wasteland." },
+        { "speaker": "Beatrix", "text": "Ah, so not another of these bloodthirsty scrappers. May I ask who you are?" },
+        { "speaker": "Mia", "text": "My name is Mia, other than that I have no recollection of before the bombings two years ago. You don’t look like a scrapper. Who are you?" },
+        { "speaker": "Beatrix", "text": "Ah honey, my name is Beatrix. I’m the current acting commander of the Corporate Special Military. I’m sure you’ve seen our forces moving back into the city of the past weeks." },
+        { "speaker": "Mia", "text": "I had taken notice of that. You’re not really what I’d picture a military leader to look like." },
+        { "speaker": "Beatrix", "text": "I don’t think I’m what most people would imagine, why? Do I suit your fancy?" },
+        { "speaker": "Mia", "text": "I… uh…" },
+        { "speaker": "Beatrix", "text": "I’m just teasing honey. May I ask what you’re doing out here?" },
+        { "speaker": "Mia", "text": "I’m mainly just surviving. Looking for food, spare parts, and whatever else is useful. I ran into some scrappers, but I took care of them." },
+        { "speaker": "Beatrix", "text": "Well, I thank you for that darling. We’ve been out all day dealing with scrappers, scavengers, and the like. When the coming conflict happens, I’d prefer not to have a third party involved." },
+        { "speaker": "Beatrix", "text": "Today we’ve just been hunting down the little fuckers evacuating the area. Say, have you by chance run into any of those accursed rebels? I’d like to know if they’re close by." },
+        { "speaker": "Mia", "text": "About five days ago now I ran into a lone soldier. He didn’t tell me his name, but he gave me a spare servo to fix my arm." },
+        { "speaker": "Beatrix", "text": "Hmmm.. That does sound like him. Anyways dear, did he ask you about your father?" },
+        { "speaker": "Mia", "text": "He did, but I have no recollection of anything before the bombings two years ago." },
+        { "speaker": "Beatrix", "text": "Shame. Well, since he brought it up first, I’ll let you hear it from him." },
+        { "speaker": "Mia", "text": "Do you two know each other?" },
+        { "speaker": "Beatrix", "text": "If you ran into who I think you did, you could say that." },
+        { "speaker": "Beatrix", "text": "Anyways darling, I must be going. Stay alive for me, mkay?" }
+      ]
+    },
+    {
+      "id": "lvl3",
+      "lines": [
+        { "speaker": "Vega", "text": "Hey there! Glad to see you’re still alive." },
+        { "speaker": "Mia", "text": "I’ve been looking for you. I have questions." },
+        { "speaker": "Vega", "text": "I’m here to provide answers. Also I heard from my scout that you had a meeting with Beatrix." },
+        { "speaker": "Mia", "text": "Firstly, do you know something about my father?" },
+        { "speaker": "Vega", "text": "As it turns out, I knew your father. We were researchers together, along with Beatrix." },
+        { "speaker": "Mia", "text": "Researchers on what?" },
+        { "speaker": "Vega", "text": "My name is Vega, and I was one of your father’s assistants on the project this city was built around." },
+        { "speaker": "Vega", "text": "Underground, in the center of this vast metropolis lies a revolutionary piece of technology. A new type of nuclear fusion reactor. This reactor could power the world for a millennia and never burn out." },
+        { "speaker": "Mia", "text": "So this is what that war is over? The reactor?" },
+        { "speaker": "Vega", "text": "Yes. There was a difference in views on how this energy should be distributed. I wanted to put it onto an open circuit distribution system and make it readily available for all." },
+        { "speaker": "Vega", "text": "Beatrix want to monetize it and control it. Offer this infinite energy only to the highest bidders and those deemed ‘qualified.’ It made me sick." },
+        { "speaker": "Mia", "text": "So this is all over infinite energy. Whoever controls this reactor controls the fate of humanity. In a world that’s so digitized and mechanized it would make the person in control almost a god." },
+        { "speaker": "Vega", "text": "Which is why I believe it should be open to all, without a single group on top." },
+        { "speaker": "Mia", "text": "So how do I fit into all of this?" },
+        { "speaker": "Vega", "text": "You’re the key. Your father, Dr. Wallace, put the key to activating the reactor in your DNA. Without you neither side can turn it on." },
+        { "speaker": "Vega", "text": "So would you join me for the coming conflict?" },
+        { "speaker": "Mia", "text": "I’m not sure if I can do that. This is a huge responsibility with worldwide repercussions. I need time to think." },
+        { "speaker": "Vega", "text": "The battle starts in five days from now. Please make a choice before then. We’re on the brink of history, and I’d hate for it to amount to nothing." },
+        { "speaker": "Vega", "text": "Come find me when you’ve made a choice. I’ sure whatever you choose will be the right path." }
+      ]
+    },
+    {
+      "id": "lvl4",
+      "lines": [
+        { "speaker": "Mia", "text": "This situation has grown far too big for just myself. A new reactor producing infinite and clean energy to the world…" },
+        { "speaker": "Mia", "text": "Maybe I should look for Beatrix before I decide to join Vega. They were both on the original project, she may have answers Vega doesn’t have or doesn’t want to share." },
+        { "speaker": "Mia", "text": "Either way, I may not have a choice. The winner of this conflict may come after me once all is said and done." },
+        { "speaker": "Mia", "text": "Time to head towards the city center to look for Beatrix." },
+        { "speaker": "Beatrix", "text": "There you are darling! Did you end up talking to Vega?" },
+        { "speaker": "Mia", "text": "Yes. I did. He gave me a lot of answers, but I’m looking to see if you can elaborate further." },
+        { "speaker": "Mia", "text": "After all there’s always two sides to a story." },
+        { "speaker": "Beatrix", "text": "You’re a lot more rational than I was expecting. You are certainly correct that there are always two viewpoints." },
+        { "speaker": "Beatrix", "text": "I’m sure my husband, Vega, explained to you about the reactor and his goals with it yes?" },
+        { "speaker": "Mia", "text": "Your husband?" },
+        { "speaker": "Beatrix", "text": "Yes dear. Me and Vega are married. This is, in a way a couple’s squabble. Just with worldwide implications." },
+        { "speaker": "Beatrix", "text": "I’m sure Vega explained about your father, his goals with the reactor, and how whoever wins this fight will need you to turn it on." },
+        { "speaker": "Beatrix", "text": "What he wouldn’t have told you was my goals for the reactor. Vega wants an open distribution system installed. Free clean energy for all." },
+        { "speaker": "Beatrix", "text": "The problem is that if it’s available to all then people who shouldn’t have it will have access to it. I wish to restrict access." },
+        { "speaker": "Beatrix", "text": "Using cost is a start, but eventually I want to make it affordable to the average person. What I really want is to test the waters with larger corporations and individuals who we can absolutely trust." },
+        { "speaker": "Beatrix", "text": "Then I wish to distribute it on a larger scale at more affordable prices, but conduct rigorous background checks on each individual who applies. To keep it out of the hands of anyone who might have nefarious purposes." },
+        { "speaker": "Beatrix", "text": "Is it really so wrong to implement some control over assets for the sake of security? I think not." },
+        { "speaker": "Beatrix", "text": "I’m sure you can predict what I’ll ask next." },
+        { "speaker": "Mia", "text": "If I’ll join you." },
+        { "speaker": "Beatrix", "text": "Precisely darling. I’m not the vile monster Vega wanted you to think I am. The battle will be decided in three days. I hope to see you joining me. Take care sweetie." }
+      ]
+    },
+    {
+      "id": "beatrix_path_pfight",
+      "lines": [
+        { "speaker": "Beatrix", "text": "Well, look who decided to show up!" },
+        { "speaker": "Mia", "text": "I’ve thought it through. And I agree with you—Vega’s vision could throw the world into chaos. There needs to be order." },
+        { "speaker": "Beatrix", "text": "I’m so glad we see eye to eye, darling. I wouldn’t have it any other way. Are you sure you’re ready for this?" },
+        { "speaker": "Mia", "text": "Yeah. I’m ready." }
+      ]
+    },
+    {
+      "id": "beatrix_path_fight",
+      "lines": [
+        { "speaker": "Vega", "text": "So, Mia… you’ve chosen to side with my wife. I won’t lie—I'm disappointed." },
+        { "speaker": "Mia", "text": "Your plan to give infinite energy to everyone sounds noble, but it’s reckless. You’d be handing power to those who would abuse it—fund terrorism, build private armies, hurt innocent people. Beatrix’s plan ensures a safer, more ethical distribution." },
+        { "speaker": "Beatrix", "text": "Wonderfully said, dear. I’m sorry, Vega—my love. We’ve found ourselves on opposite sides of history. You just happened to choose the wrong one." },
+        { "speaker": "Vega", "text": "Well, you know me—I’ve always been highly opinionated. I won’t back down." },
+        { "speaker": "Beatrix", "text": "We’re building a new world. And it tears at my heart that you refuse to be part of it. Now… shall we begin?" },
+        { "speaker": "Vega", "text": "Damn you…" },
+        { "speaker": "Beatrix", "text": "On your knees, love. Right where you belong." },
+        { "speaker": "Vega", "text": "I don’t know why I expected a different outcome." },
+        { "speaker": "Beatrix", "text": "The only outcome you’re fit for is submitting. Just like always." },
+        { "speaker": "Mia", "text": "So… what happens to him now?" },
+        { "speaker": "Beatrix", "text": "As much as it hurts… our love wasn’t meant to be. He’ll face charges of insurrection. He’ll rot in a cell." },
+        { "speaker": "Narrator", "text": "Vega is arrested by the CSM and escorted away." },
+        { "speaker": "Beatrix", "text": "Darling, what we’re about to accomplish will change history. I’m so glad you’re by my side… Even if he couldn’t be." },
+        { "speaker": "Mia", "text": "Progress always comes with great sacrifice." },
+        { "speaker": "Beatrix", "text": "As heartbreaking as it is… you’re right, darling." },
+        { "speaker": "Mia", "text": "You ready?" },
+        { "speaker": "Beatrix", "text": "I am. And once all this is behind us… how about drinks at my place?" },
+        { "speaker": "Mia", "text": "I think I’d like that." },
+        { "speaker": "Narrator", "text": "Mia and Beatrix step toward the reactor’s control panel. Mia places her hand on it— and it awakens." }
+      ]
+    },
+    {
+      "id": "vega_path_pfight",
+      "lines": [
+        { "speaker": "Vega", "text": "I’m glad you made the right choice, Mia." },
+        { "speaker": "Mia", "text": "The more I thought about it, the more I realized—I believe in freedom. I can't follow Beatrix's philosophy of control. It leaves a bad taste in my mouth." },
+        { "speaker": "Vega", "text": "Then we're aligned. With what we’ll accomplish here, we’ll bring a new kind of freedom to this world." }
+      ]
+    },
+    {
+      "id": "vega_path_fight",
+      "lines": [
+        { "speaker": "Beatrix", "text": "I see you’ve sided with my wayward husband. I can’t say I’m surprised... but it still stings." },
+        { "speaker": "Vega", "text": "I’m sorry, Beatrix. But you won’t be the victor here. I have the key. The CSM forces are in shambles. You’ve lost. I don’t want this fight… but I’ll take it if I must." },
+        { "speaker": "Beatrix", "text": "So our love was disposable after all. Even now… it hurts to point a weapon at you, my love. And I’m sorry too, Mia… but I can’t let Vega win. I take no pleasure in what’s about to happen." },
+        { "speaker": "Mia", "text": "I’m sorry too." }
+      ]
+    },
+    {
+  "id": "vega_path_ending",
+  "lines": [
+    { "speaker": "Mia", "text": "I’m sorry Vega. We did what was right. She stood in our path." },
+    { "speaker": "Vega", "text": "It still hurts like hell." },
+    { "speaker": "Mia", "text": "I guess we’ll be ushering in a new world." },
+    { "speaker": "Vega", "text": "A new world built on blood. The blood of people we loved." },
+    { "speaker": "Mia", "text": "Sometimes we have to give up what is most precious to us, to make the world a better place." },
+    { "speaker": "Vega", "text": "You’re right… let's make this world a brighter place." },
+    { "speaker": "Narrator", "text": "Mia and Vega approach the reactor’s control panel. Mia places her hand on it, and it wakes up." }
+  ]
+  }
+  ]
+}
